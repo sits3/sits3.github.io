@@ -20,3 +20,10 @@ collections:
 url: "https://sits3.net" 
 plugins:
   - jekyll-sitemap
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
