@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 title: "SIT Systems Section (S3)"
 description: "A Research Group from the SIT ICT Cluster"
 collections_dir: collections
@@ -20,4 +20,3 @@ collections:
 url: "https://sits3.net" 
 plugins:
   - jekyll-sitemap
-      
