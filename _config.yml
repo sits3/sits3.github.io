@@ -1,0 +1,23 @@
+theme: jekyll-theme-midnight
+title: "SIT Systems Section (S3)"
+description: "A Research Group from the SIT ICT Cluster"
+collections_dir: collections
+collections: 
+    faculty:
+      name: true
+      designation: true
+      photo_url: true
+      sit_url: true
+      research_interest: true
+    research_staffs:
+      name: true
+      designation: true
+      research_interest: true
+    research_students:
+      name: true
+      designation: true
+      research_interest: true 
+url: "https://sits3.net" 
+plugins:
+  - jekyll-sitemap
+      
