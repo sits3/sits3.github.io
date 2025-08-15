@@ -10,7 +10,6 @@ The SIT Systems Section (S3) carries out applied research in the domain of softw
 
 * Software Engineering
 * Software Verification and Validation
-* Software Defined Network (SDN)
 * General-purpose computing on graphics processing units
 * High Performance Computing
 * Parallel and Distributed Systems
